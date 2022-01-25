@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Level Up Chess Coaching</title>
+    <link>https://levelupcoaching.github.io/services/</link>
+    <description>Recent content in Services on Level Up Chess Coaching</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://levelupcoaching.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1-on-1 In Person Coaching</title>
+      <link>https://levelupcoaching.github.io/services/coaching-in-person/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://levelupcoaching.github.io/services/coaching-in-person/</guid>
+      <description>Personalized 1-1 session with in depth game analysis review for beginners all the way to advanced gameplay theory
+I offer chess instruction for all levels of chess players. All instruction is available online in one-on-one sessions. Each lesson is a minimum of one hour and is typically once a week for four weeks.
+I offer chess tournament preparation including opening repetoire and game assessments. Some advanced students also opt for the sparring partner package.</description>
+    </item>
+    
+    <item>
+      <title>1-on-1 Online Coaching</title>
+      <link>https://levelupcoaching.github.io/services/coaching-online/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://levelupcoaching.github.io/services/coaching-online/</guid>
+      <description>Personalized 1-1 session with in depth game analysis review for beginners all the way to advanced gameplay theory
+I offer chess instruction for all levels of chess players. All instruction is available online in one-on-one sessions. Each lesson is a minimum of one hour and is typically once a week for four weeks.
+I offer chess tournament preparation including opening repetoire and game assessments. Some advanced students also opt for the sparring partner package.</description>
+    </item>
+    
+  </channel>
+</rss>
