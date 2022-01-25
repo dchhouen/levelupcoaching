@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dchhouen.github.io/levelupcoaching/services/coaching-in-person/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url><url>
     <loc>https://dchhouen.github.io/levelupcoaching/services/coaching-online/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>https://dchhouen.github.io/levelupcoaching/services/coach-in-persons/</loc>
+    <lastmod>2022-01-25T08:31:43-08:00</lastmod>
   </url><url>
     <loc>https://dchhouen.github.io/levelupcoaching/about/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
