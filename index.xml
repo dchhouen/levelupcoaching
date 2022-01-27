@@ -2,48 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Level Up Chess Coaching</title>
-    <link>https://dchhouen.github.io/levelupcoaching/</link>
+    <link>https://levelupchess.netlify.app/</link>
     <description>Recent content in Home on Level Up Chess Coaching</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://dchhouen.github.io/levelupcoaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://levelupchess.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1-on-1 Online Coaching</title>
-      <link>https://dchhouen.github.io/levelupcoaching/services/coaching-online/</link>
+      <link>https://levelupchess.netlify.app/services/coaching-online/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://dchhouen.github.io/levelupcoaching/services/coaching-online/</guid>
-      <description>Personalized 1-1 session with in depth game analysis review for beginners all the way to advanced gameplay theory
-I offer chess instruction for all levels of chess players. All instruction is available online in one-on-one sessions. Each lesson is a minimum of one hour and is typically once a week for four weeks.
-I offer chess tournament preparation including opening repetoire and game assessments. Some advanced students also opt for the sparring partner package.</description>
+      <guid>https://levelupchess.netlify.app/services/coaching-online/</guid>
+      <description>Personalized 1-1 session with in depth game analysis review for beginners all the way to expert.
+I offer chess instruction for all levels of chess players. All instruction is available online in one-on-one sessions. Each lesson is a minimum of one hour and is typically once a week.
+I offer chess tournament preparation including opening repetoire and game assessments. Some advanced students also opt for the sparring partner package.
+Pricing Chess lessons are $35 per session.</description>
     </item>
     
     <item>
       <title>1-on-1 In Person Coaching</title>
-      <link>https://dchhouen.github.io/levelupcoaching/services/coach-in-persons/</link>
+      <link>https://levelupchess.netlify.app/services/coach-in-persons/</link>
       <pubDate>Tue, 25 Jan 2022 08:31:43 -0800</pubDate>
       
-      <guid>https://dchhouen.github.io/levelupcoaching/services/coach-in-persons/</guid>
-      <description>Personalized 1-1 session with in depth game analysis review for beginners all the way to advanced gameplay theory
-I offer chess instruction for all levels of chess players. All instruction is available online in one-on-one sessions. Each lesson is a minimum of one hour and is typically once a week for four weeks.
-I offer chess tournament preparation including opening repetoire and game assessments. Some advanced students also opt for the sparring partner package.</description>
+      <guid>https://levelupchess.netlify.app/services/coach-in-persons/</guid>
+      <description>Personalized 1-1 session with in depth game analysis review for beginners all the way to expert.
+I offer chess instruction for all levels of chess players. All instruction is available online in one-on-one sessions. Each lesson is a minimum of one hour and is typically once a week.
+I offer chess tournament preparation including opening repetoire and game assessments. Some advanced students also opt for the sparring partner package.
+Pricing Chess lessons are $40 per session.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://dchhouen.github.io/levelupcoaching/about/</link>
+      <link>https://levelupchess.netlify.app/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://dchhouen.github.io/levelupcoaching/about/</guid>
+      <guid>https://levelupchess.netlify.app/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>History</title>
-      <link>https://dchhouen.github.io/levelupcoaching/history/</link>
+      <link>https://levelupchess.netlify.app/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://dchhouen.github.io/levelupcoaching/history/</guid>
+      <guid>https://levelupchess.netlify.app/history/</guid>
       <description>About Heading  Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
     10% of my proceeds are used to provide free coaching lessons to the community.</description>
     </item>
